@@ -101,16 +101,16 @@ export const FOOTER_LINKS = [
   {
     name: 'Project',
     icon: GalleryVertical,
-    link: 'https://aftabrehan.com/portfolio/jarvis-ai',
+    link: 'https://jarvis-gules.vercel.app/,
   },
   {
     name: 'Linkedin',
     icon: Linkedin,
-    link: 'https://linkedin.com/in/aftabrehan',
+    link: 'https://www.linkedin.com/in/angshuman-acharya-909b52216/',
   },
   {
     name: 'Github',
     icon: Github,
-    link: 'https://github.com/aftabrehan/jarvis-ai',
+    link: 'https://github.com/Asquare06/jarvis',
   },
 ]
