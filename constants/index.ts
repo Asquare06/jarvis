@@ -101,7 +101,7 @@ export const FOOTER_LINKS = [
   {
     name: 'Project',
     icon: GalleryVertical,
-    link: 'https://jarvis-gules.vercel.app/,
+    link: 'https://jarvis-gules.vercel.app/',
   },
   {
     name: 'Linkedin',
